@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Project-Tracking-System/static/css/main.7239a12b.css",
+    "main.js": "/Project-Tracking-System/static/js/main.6c13b2d0.js",
+    "static/js/787.37f5e954.chunk.js": "/Project-Tracking-System/static/js/787.37f5e954.chunk.js",
+    "static/media/login.avif": "/Project-Tracking-System/static/media/login.a78dfb8608ab60ca0506.avif",
+    "index.html": "/Project-Tracking-System/index.html",
+    "main.7239a12b.css.map": "/Project-Tracking-System/static/css/main.7239a12b.css.map",
+    "main.6c13b2d0.js.map": "/Project-Tracking-System/static/js/main.6c13b2d0.js.map",
+    "787.37f5e954.chunk.js.map": "/Project-Tracking-System/static/js/787.37f5e954.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7239a12b.css",
+    "static/js/main.6c13b2d0.js"
+  ]
+}
