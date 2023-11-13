@@ -16,7 +16,7 @@ const CustomNavbar = () => {
           alt="Thiran Logo"
         />
         <span className="navbar-brand-text centered-text">
-          Task Management System
+          Project Management System
         </span>
       </Navbar.Brand>
       <Nav className="ml-auto">
